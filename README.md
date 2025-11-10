@@ -288,32 +288,6 @@ See **[RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md)** for complete commands and tro
 
 ---
 
-## 🤔 FAQ
-
-**Q: Is this a real vulnerability?**  
-A: Yes! Found on Ethereum mainnet in Pool4 contract.
-
-**Q: Will this affect my computer?**  
-A: No - it only runs locally using a fork.
-
-**Q: Do I need to modify anything?**  
-A: No - just set RPC_URL and BLOCK_NUMBER, then run.
-
-**Q: How long does it take?**  
-A: Setup: 5 min, Execution: 2 sec, Reading: 40 min.
-
-**Q: Is this a false positive?**  
-A: No - confirmed true positive with 100% accuracy.
-
-**Q: What if forge isn't installed?**  
-A: See RUN_INSTRUCTIONS.md for installation guide.
-
-See **[RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md)** for more troubleshooting.
-
----
-
-## 📞 Support
-
 ### Documentation
 - 📖 **POC_REPORT.md** - Detailed analysis
 - 🚀 **RUN_INSTRUCTIONS.md** - Execution guide
@@ -323,11 +297,6 @@ See **[RUN_INSTRUCTIONS.md](RUN_INSTRUCTIONS.md)** for more troubleshooting.
 - 🔗 [Foundry Book](https://book.getfoundry.sh/)
 - 🔗 [Solidity Docs](https://docs.soliditylang.org/)
 - 🔗 [OpenZeppelin](https://docs.openzeppelin.com/)
-
-### Community
-- 🔗 [Glider Discord](https://discord.com/invite/remedy)
-- 🔗 [Query Database](https://r.xyz/glider-query-database)
-- 🔗 [Contest Page](https://glide.gitbook.io/main/glider-ide/glider-contest)
 
 ---
 
