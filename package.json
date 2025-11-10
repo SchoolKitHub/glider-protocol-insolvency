@@ -1,0 +1,22 @@
+{
+  "name": "protocol-insolvency-poc",
+  "version": "1.0.0",
+  "description": "Proof of Concept for Protocol Insolvency vulnerability in Pool4 contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "forge test -vvv",
+    "test:fork": "forge test --fork-url $RPC_URL --fork-block-number $BLOCK_NUMBER -vvv"
+  },
+  "keywords": [
+    "defi",
+    "vulnerability",
+    "insolvency",
+    "pool",
+    "poc"
+  ],
+  "author": "Glider Contest Contributor",
+  "license": "MIT",
+  "devDependencies": {
+    "foundry-rs": "^0.2.0"
+  }
+}
